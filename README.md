@@ -4,7 +4,7 @@ A school project for practicing unit testing with [Mocha](https://mochajs.org/) 
 
 ## Team members
 
-- [Horațiu Halmaghi](https://github.com/hora)
+- [Just me](https://github.com/hora)
 - [...](#)
 
 ## Setup
